@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5295B2</color>
+    <color name="colorPrimaryDark">#21618C</color>
+    <color name="colorAccent">#43A047</color>
+
+    <color name="colorDanger">#b71c1c</color>
+    <color name="colorLightDanger">#F05151</color>
+
+    <color name="colorDarkSuccess">#649262</color>
+
+    <color name="colorLink">#2980B9</color>
+
+
+    <color name="colorBlue">#367DF1</color>
+    <color name="colorLightBlue">#49AFF1</color>
+
+    <color name="colorIsLeader">#8E44AD</color>
+
+    <color name="colorLabel">#21618C</color>
+
+    <color name="colorText">#34495E</color>
+
+    <color name="colorWarning">#F1C40F</color>
+
+    <!-- Tutorials -->
+    <color name="colorAccent2">#FF4081</color>
+
+    <color name="colorTransparent">#43000000</color>
+
+
+</resources>
